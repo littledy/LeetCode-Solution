@@ -1,3 +1,6 @@
+//9. Palindrome Number
+//Runtime: 32 ms, faster than 99.91% of C++ online submissions for Palindrome Number.
+//Memory Usage: 8 MB, less than 99.78% of C++ online submissions for Palindrome Number.
 //这种方法只需要比较前一半与后一半的值即可，运算复杂度减小
 //rev用来存储x后一半的值
 class Solution {

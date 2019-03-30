@@ -1,3 +1,6 @@
+//4. Median of Two Sorted Arrays
+//Runtime: 28 ms, faster than 94.56% of C++ online submissions for Median of Two Sorted Arrays.
+//Memory Usage: 10.6 MB, less than 98.85% of C++ online submissions for Median of Two Sorted Arrays.
 //将2个排好序的数组合并为一个排好序的数组，利用归并算法的原理，每次从2个数组中取出最小的数放入
 //第三个数组，直至2个数组均为空
 

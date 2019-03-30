@@ -1,3 +1,6 @@
+//9. Palindrome Number
+//Runtime: 48 ms, faster than 94.39% of C++ online submissions for Palindrome Number.
+//Memory Usage: 11.7 MB, less than 98.23% of C++ online submissions for Palindrome Number.
 class Solution {
 public:
     bool isPalindrome(int x) {

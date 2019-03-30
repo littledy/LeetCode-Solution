@@ -1,3 +1,7 @@
+//2. Add Two Numbers
+//Runtime: 28 ms, faster than 99.42% of C++ online submissions for Add Two Numbers.
+//Memory Usage: 10.3 MB, less than 99.76% of C++ online submissions for Add Two Numbers.
+
 //思路：创建一个ListNode对象保存结果，然后创建一个List*类型的指针指向对象；
 //设置进位，如果l1，l2有一个非空或者进位不为0则需继续计算；
 //每次对应位相加，空则为0，将计算的结果存放到新节点中，最后返回头指针即可

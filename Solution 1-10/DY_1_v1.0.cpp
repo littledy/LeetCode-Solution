@@ -1,3 +1,6 @@
+//1. Two Sum
+//Runtime: 12 ms, faster than 92.32% of C++ online submissions for Two Sum.
+//Memory Usage: 10.3 MB, less than 40.12% of C++ online submissions for Two Sum.
 //思路：首先建立一个无序表num_id保存输入数组nums，无序表中的每个元素有2个值，
 //第一个是key，第二个是value，可以通过key快速索引到value，在这题对应的就是数组下
 //标为Key,对应的元素值为value，注意每个元素只能利用一次，所以要避免数组值重复利用。

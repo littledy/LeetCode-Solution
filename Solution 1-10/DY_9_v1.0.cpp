@@ -1,3 +1,6 @@
+//9. Palindrome Number
+//Runtime: 44 ms, faster than 95.28% of C++ online submissions for Palindrome Number.
+//Memory Usage: 17.6 MB, less than 97.56% of C++ online submissions for Palindrome Number.
 //若x为负，则不可能为回文数，故只需考虑x为非负的情况
 //将x的各位存入一个deque队列，然后首位比较，不相等则return，相等
 //则pop出首尾元素继续比较，直到deque长为1或为空
